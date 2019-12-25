@@ -11,7 +11,7 @@ function greet(timeStr){
 
 if (time < 12)return "Good Morning"
 if (time > 17)return "Good Evening"
-return "Good afternoon"
+  return "Good Afternoon"
 }
 /* Write your implementation of displayMessage() */
 function displayMessage(saying){
